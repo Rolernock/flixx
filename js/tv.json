@@ -1,0 +1,391 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/A6uiMhZaJA6KHmzx1qTJfNMaWuf.jpg",
+            "first_air_date": "2010-08-11",
+            "genre_ids": [
+                35,
+                10751,
+                18
+            ],
+            "id": 52698,
+            "name": "El Kebeer Awi",
+            "origin_country": [
+                "EG"
+            ],
+            "original_language": "ar",
+            "original_name": "الكبير أوي",
+            "overview": "Al Kabeer seeks to find love again after his wife was gone, unaware that what he is looking for is closer than he imagines.",
+            "popularity": 2498.399,
+            "poster_path": "/oj4XM6wpGRIcx3QoQx1PF1fx5E5.jpg",
+            "vote_average": 6.8,
+            "vote_count": 32
+        },
+        {
+            "backdrop_path": "/lc2z0xDE6bS90Qo7M3hAJSpW6Df.jpg",
+            "first_air_date": "2018-05-17",
+            "genre_ids": [
+                10751,
+                10764
+            ],
+            "id": 101604,
+            "name": "My Heart Relieved",
+            "origin_country": [
+                "AE"
+            ],
+            "original_language": "ar",
+            "original_name": "قلبي اطمأن",
+            "overview": "A program that gives you the chance to live a social experience with a young man called \"Ghaith\". Who is roaming countries to meet people in distress and pain; to look for an opportunity to make a difference in their lives.",
+            "popularity": 2247.846,
+            "poster_path": "/3iNT3rKs8q7qDr1fWxfznimZ7JV.jpg",
+            "vote_average": 6,
+            "vote_count": 8
+        },
+        {
+            "backdrop_path": "/pWvOg6COJOI1lud5uwrVCqAoDiq.jpg",
+            "first_air_date": "2022-04-02",
+            "genre_ids": [
+                18
+            ],
+            "id": 196080,
+            "name": "منهو ولدنا؟",
+            "origin_country": [
+                "SA"
+            ],
+            "original_language": "ar",
+            "original_name": "منهو ولدنا؟",
+            "overview": "",
+            "popularity": 2159.743,
+            "poster_path": "/nEtzUtqVri3v5vyOYdajc4nA9m6.jpg",
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "backdrop_path": "/iDUgitOS7GA1rRZCRL0JsCdyREf.jpg",
+            "first_air_date": "2022-05-27",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 203057,
+            "name": "Melur Untuk Firdaus",
+            "origin_country": [
+                "MY"
+            ],
+            "original_language": "ms",
+            "original_name": "Melur Untuk Firdaus",
+            "overview": "Melur Untuk Firdaus is a 2022 Malaysian television drama series directed by Zamri Zakaria with a script by Wan Mahani Wan Hasan. Starring Anna Jobling, Meerqeen, Nesa Idrus, Fimie Don and many others, this series is an adaptation of the novel My Rude Wife by Cik Nor Cinta and started airing on Slot Lestary, TV3 from 27 May 2022 until 15 July 2022 replacing Do You Love Me Captain..",
+            "popularity": 2039.491,
+            "poster_path": "/rVxQxsY3bQWTabHUi2Qr3aoOafk.jpg",
+            "vote_average": 5.1,
+            "vote_count": 8
+        },
+        {
+            "backdrop_path": "/e2WKWhPgnS3UCxwgo1YjjFT8zu8.jpg",
+            "first_air_date": "2017-05-27",
+            "genre_ids": [
+                18
+            ],
+            "id": 72205,
+            "name": "Ramadan Kareem",
+            "origin_country": [
+                "EG"
+            ],
+            "original_language": "ar",
+            "original_name": "رمضان كريم",
+            "overview": "Taking place during the month of Ramadan in a local neighborhood, where one of the girls tries to disavow her family and her social level. She claims that she is from a wealthy family in order to meet a young man who she falls in love with.",
+            "popularity": 1760.807,
+            "poster_path": "/A1xIBtS7VNHEm7So4ZCFQ5GsP9o.jpg",
+            "vote_average": 5,
+            "vote_count": 3
+        },
+        {
+            "backdrop_path": "/7z8G4fXKvxYd2WMPM0OgKWyNUOa.jpg",
+            "first_air_date": "2023-03-23",
+            "genre_ids": [
+                18
+            ],
+            "id": 211352,
+            "name": "London Class",
+            "origin_country": [
+                "SA"
+            ],
+            "original_language": "ar",
+            "original_name": "دفعة لندن",
+            "overview": "Set in 1980s London, a group of Arab students attempts to navigate life amid love, jealousy, and conspiracy in the city of fog.",
+            "popularity": 1715.869,
+            "poster_path": "/evkItF7jARJ4eOAJwf6FO9DnU23.jpg",
+            "vote_average": 1,
+            "vote_count": 2
+        },
+        {
+            "backdrop_path": "/t2rAdgjSh0WYbXzdOB5zTDqzdCI.jpg",
+            "first_air_date": "2022-11-02",
+            "genre_ids": [
+                18
+            ],
+            "id": 213713,
+            "name": "Faltu",
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "hi",
+            "original_name": "Faltu",
+            "overview": "What's in a name? Amidst the arid landscape of Rajasthan, a young woman with dreamy eyes struggles to prove her worth.",
+            "popularity": 1640.136,
+            "poster_path": "/lgyFuoXs7GvKJN0mNm7z7OMOFuZ.jpg",
+            "vote_average": 5,
+            "vote_count": 14
+        },
+        {
+            "backdrop_path": "/ArHZQde4RyinqG6Yf0UAcgeyy2J.jpg",
+            "first_air_date": "2021-04-13",
+            "genre_ids": [
+                18
+            ],
+            "id": 121745,
+            "name": "Till Death",
+            "origin_country": [
+                "LB"
+            ],
+            "original_language": "ar",
+            "original_name": "للموت",
+            "overview": "Fed up with his wife’s distancing from him, Hadi goes on a business trip to Turkey where he meets a special woman, an encounter that changes his life forever.",
+            "popularity": 1635.372,
+            "poster_path": "/g18jnJuhIujMYErHqeG5t8U5F9X.jpg",
+            "vote_average": 6.8,
+            "vote_count": 10
+        },
+        {
+            "backdrop_path": "/evUOX9GnscnDy3WxhzAKv9Rlrcp.jpg",
+            "first_air_date": "2023-03-23",
+            "genre_ids": [],
+            "id": 218739,
+            "name": "Gaafar El Omda",
+            "origin_country": [
+                "EG"
+            ],
+            "original_language": "ar",
+            "original_name": "جعفر العمدة",
+            "overview": "When rich businessman and village elder Gaafar is approached by the young Aida about a loan, he offers to give her the money on one condition: being his wife for 400 days.",
+            "popularity": 1630.636,
+            "poster_path": null,
+            "vote_average": 6.3,
+            "vote_count": 7
+        },
+        {
+            "backdrop_path": "/dLLafkr4khRj00fvQjZ46oPsY43.jpg",
+            "first_air_date": "2022-11-28",
+            "genre_ids": [
+                18
+            ],
+            "id": 215315,
+            "name": "Rabb Se Hai Dua",
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "hi",
+            "original_name": "Rabb Se Hai Dua",
+            "overview": "Dua and her husband are a perfect married couple in the eyes of their family. However, Dua’s life turns upside down when her husband seeks her permission to marry another woman.",
+            "popularity": 1599.089,
+            "poster_path": "/6ikbefd7VeopbBuGgioYMNU5bQj.jpg",
+            "vote_average": 6,
+            "vote_count": 2
+        },
+        {
+            "backdrop_path": "/3n2TjKw3HrwDqgVgcynvantOfS3.jpg",
+            "first_air_date": "2023-01-04",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 215103,
+            "name": "Teri Meri Doriyaann",
+            "origin_country": [
+                "IN"
+            ],
+            "original_language": "hi",
+            "original_name": "तेरी मेरी डोरियाँ",
+            "overview": "It’s hate at first sight for Sahiba and Angad! But destined to be together, their lives get intertwined by a marriage alliance, and a love-hate story ensues.",
+            "popularity": 1564.588,
+            "poster_path": "/4BHDmYiuSnNL3nqKIOzLJKYX4AN.jpg",
+            "vote_average": 5.5,
+            "vote_count": 6
+        },
+        {
+            "backdrop_path": "/opOh9JinJjd6KMF4AdgnDGjWzds.jpg",
+            "first_air_date": "2021-04-13",
+            "genre_ids": [
+                18
+            ],
+            "id": 122543,
+            "name": "Al Maddah",
+            "origin_country": [
+                "EG"
+            ],
+            "original_language": "ar",
+            "original_name": "المداح",
+            "overview": "Saber Al Maddah is a devout and lovable man. Al-Shaytan was able to get him because of the one whose heart was attached to her love, so he killed the closest people to her, and his life was turned upside down.",
+            "popularity": 1563.738,
+            "poster_path": "/qlVgLDGVrzFJGJdNPgKKhtXUguZ.jpg",
+            "vote_average": 3.6,
+            "vote_count": 7
+        },
+        {
+            "backdrop_path": "/hPapL4sHGtQRP0ArOUFWwAknOe9.jpg",
+            "first_air_date": "2023-03-23",
+            "genre_ids": [
+                18
+            ],
+            "id": 218323,
+            "name": "Baba Almgal",
+            "origin_country": [
+                "EG"
+            ],
+            "original_language": "ar",
+            "original_name": "بابا المجال",
+            "overview": "Coming on Ramadan 2023",
+            "popularity": 1537.375,
+            "poster_path": "/v0KwYByFeSdTncYDUGlDO4hyE54.jpg",
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "backdrop_path": "/jQyoJsiDMaQDgxARjDtiUfWFrHs.jpg",
+            "first_air_date": "2023-03-23",
+            "genre_ids": [
+                18
+            ],
+            "id": 218320,
+            "name": "Sthm",
+            "origin_country": [
+                "EG"
+            ],
+            "original_language": "ar",
+            "original_name": "ستهم",
+            "overview": "",
+            "popularity": 1534.641,
+            "poster_path": "/wKtnmR0cXTEEoqCjzC5NkF68b0B.jpg",
+            "vote_average": 1,
+            "vote_count": 1
+        },
+        {
+            "backdrop_path": "/yCSg8aLJwentpfZayScBIwk2AjW.jpg",
+            "first_air_date": "2023-03-23",
+            "genre_ids": [
+                18
+            ],
+            "id": 218313,
+            "name": "His All-Knowing Secret",
+            "origin_country": [
+                "EG"
+            ],
+            "original_language": "ar",
+            "original_name": "سره الباتع",
+            "overview": "",
+            "popularity": 1532.949,
+            "poster_path": "/64xJnzk6z6Oj6dKha2h4JxgDy6x.jpg",
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "backdrop_path": "/aKVKbIqtxlQMGAjVhzEULwFTgVk.jpg",
+            "first_air_date": "2023-03-23",
+            "genre_ids": [
+                35,
+                10768
+            ],
+            "id": 218328,
+            "name": "Welcome Back",
+            "origin_country": [
+                "EG"
+            ],
+            "original_language": "ar",
+            "original_name": "١٠٠٠ حمد الله على السلامة",
+            "overview": "After the death of her husband, Jalal, in Canada, Dr. Samiha decides to return to Egypt after more than 25 years, accompanied by her children, Sameh and Samah, to recover their inheritance.",
+            "popularity": 1528.526,
+            "poster_path": "/soCEoMpXgOIhx6v7MeoVFGktpQu.jpg",
+            "vote_average": 9.5,
+            "vote_count": 2
+        },
+        {
+            "backdrop_path": "/6Sc10YT3UG8RT1YybMMPptuck82.jpg",
+            "first_air_date": "2023-03-23",
+            "genre_ids": [
+                18
+            ],
+            "id": 218886,
+            "name": "Al Aghar",
+            "origin_country": [
+                "EG"
+            ],
+            "original_language": "ar",
+            "original_name": "الأجهر",
+            "overview": "Falsely accused of killing his mom, a teen continues his life abroad on the run. But his return home to find his family uncovers mysterious secrets about his past.",
+            "popularity": 1526.054,
+            "poster_path": "/4SqZASKpIG28TSYvopLedhBDIn3.jpg",
+            "vote_average": 10,
+            "vote_count": 1
+        },
+        {
+            "backdrop_path": "/tmRNDAPEaaeRDUrn9tzxgTtmTT7.jpg",
+            "first_air_date": "2023-03-23",
+            "genre_ids": [
+                18
+            ],
+            "id": 220962,
+            "name": "gold house",
+            "origin_country": [
+                "IQ"
+            ],
+            "original_language": "ar",
+            "original_name": "خان الذهب",
+            "overview": "The life of a father-to-be is turned upside down when news of his wife’s pregnancy inadvertently sets off a chain of tragic events.",
+            "popularity": 1504.648,
+            "poster_path": "/i28LFw34MG3S2GZ6ES8iXecXjWF.jpg",
+            "vote_average": 10,
+            "vote_count": 3
+        },
+        {
+            "backdrop_path": "/aWMxMM51v2CpDMjLpRrfhCeti89.jpg",
+            "first_air_date": "2023-03-23",
+            "genre_ids": [
+                18
+            ],
+            "id": 221018,
+            "name": "Al Zind: Thi'b Al Assi",
+            "origin_country": [
+                "SY"
+            ],
+            "original_language": "ar",
+            "original_name": "الزند - ذئب العاصي",
+            "overview": "Assi witnesses his father getting killed in defense of his land, and when he grows into a man, he decides to avenge his father's death. He returns to his village after his discharge from military service, only to find himself facing Nawras Pasha and his strong influence and authority.",
+            "popularity": 1477.231,
+            "poster_path": "/rBLJvMdvxQ7lafR58VfI8OjPmIO.jpg",
+            "vote_average": 9,
+            "vote_count": 2
+        },
+        {
+            "backdrop_path": "/tgL7EWzzZuAUYty007xB52Pl2J8.jpg",
+            "first_air_date": "2023-03-23",
+            "genre_ids": [
+                18
+            ],
+            "id": 221030,
+            "name": "Seventh-Year Itch",
+            "origin_country": [
+                "EG"
+            ],
+            "original_language": "ar",
+            "original_name": "الهرشة السابعة",
+            "overview": "In the seventh year of their marriage, boredom, and fatigue take over the lives of high school sweethearts Adam and Nadine. Between the pressures of raising their twins and their routine life, will their love overcome these challenges?",
+            "popularity": 1470.224,
+            "poster_path": "/l3YAjfz1o5INrHlCoX70avA7ajt.jpg",
+            "vote_average": 7.5,
+            "vote_count": 2
+        }
+    ],
+    "total_pages": 7384,
+    "total_results": 147667
+}
